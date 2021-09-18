@@ -5,11 +5,11 @@
 body {
   margin:0;
   font-family:sans-serif;
-  background:#97FCC9;
+  background:#D9F9CC;
 }
 
 .contenedor {
-  color: #0097C3;
+  color: #ACF58E;
   text-align: center;
 }
 
@@ -17,12 +17,12 @@ body {
   width: 60%;
   max-width: 500px;
   margin: auto;
-  background: #7DFDA3;
+  background: #7D;
   border-radius: 7px;
 }
 
 .titulo-form-municipio {
-  background: #009950;
+  background: #41B511;
   color: #fff;
   padding: 8px;
   text-align: center;
@@ -69,7 +69,7 @@ body {
 }
 
 .btn-Modificar {
-  background: crimson;
+  background: #46CF0E;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
@@ -82,7 +82,7 @@ body {
 }
 
 .btn-Buscar {
-  background: crimson;
+  background: #46CF0E;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
@@ -95,7 +95,7 @@ body {
 }
 
 .btn-Eliminar {
-  background: crimson;
+  background: #46CF0E;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
