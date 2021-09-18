@@ -5,7 +5,7 @@
 body {
   margin:0;
   font-family:sans-serif;
-  background:#D9F9CC;
+  background:#E1FFD4;
 }
 
 .contenedor {
@@ -19,6 +19,7 @@ body {
   margin: auto;
   background: #7D;
   border-radius: 7px;
+  border-style: double;
 }
 
 .titulo-form-municipio {
