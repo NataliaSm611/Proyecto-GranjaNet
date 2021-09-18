@@ -56,7 +56,7 @@ body {
 }
 
 .btn-insertar {
-  background: crimson;
+  background: #41B511;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
@@ -108,7 +108,7 @@ body {
 }
 
 .btn-Limpiar {
-  background: crimson;
+  background: #41B511;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
@@ -121,7 +121,7 @@ body {
 }
 
 .btn-Retornar  {
-  background: crimson;
+  background: #41B511;
   color: #DDFFF2;
   margin: auto;
   padding: 10px 40px;
